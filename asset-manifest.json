@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/meme-generator/static/css/main.8e8b4912.css",
+    "main.js": "/meme-generator/static/js/main.f6d7e4a4.js",
+    "static/media/meme icon.png": "/meme-generator/static/media/meme icon.6a612137b75f5456213d.png",
+    "index.html": "/meme-generator/index.html",
+    "main.8e8b4912.css.map": "/meme-generator/static/css/main.8e8b4912.css.map",
+    "main.f6d7e4a4.js.map": "/meme-generator/static/js/main.f6d7e4a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8b4912.css",
+    "static/js/main.f6d7e4a4.js"
+  ]
+}
